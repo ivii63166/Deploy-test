@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "Pulses",
+      "name": "Bhat ki Dal",
+      "price": 120.00,
+      "discountedPrice": 100.00,
+      "onSale": true,
+      "image": "images/thumb-bhat-ki-dal.png",
+      "description": "1 kg"
+    },
+    {
+      "id": "2",
+      "category": "Pulses",
+      "name": "Urad Pahadi",
+      "price": 130.00,
+      "discountedPrice": 110.00,
+      "onSale": true,
+      "image": "images/thumb-urad-pahadi.png",
+      "description": "1 kg"
+    },
+    {
+      "id": "3",
+      "category": "Pulses",
+      "name": "Kala Chana",
+      "price": 100.00,
+      "discountedPrice": 90.00,
+      "onSale": false,
+      "image": "images/thumb-kala-chana.png",
+      "description": "1 kg"
+    }
+  ]
+}
