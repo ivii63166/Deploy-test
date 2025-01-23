@@ -1,34 +1,104 @@
 {
   "products": [
     {
-      "id": "1",
       "category": "Pulses",
       "name": "Bhat ki Dal",
-      "price": 120.00,
-      "discountedPrice": 100.00,
-      "onSale": true,
-      "image": "images/thumb-bhat-ki-dal.png",
-      "description": "1 kg"
+      "alsoKnownAs": "Black Soybean",
+      "healthBenefits": "High protein content, aids in muscle growth, boosts energy.",
+      "medicalBenefits": "Good for heart health, helps in managing diabetes, and supports bone strength.",
+      "price": 120,
+      "discountedPrice": 100,
+      "onSale": true
     },
     {
-      "id": "2",
       "category": "Pulses",
       "name": "Urad Pahadi",
-      "price": 130.00,
-      "discountedPrice": 110.00,
-      "onSale": true,
-      "image": "images/thumb-urad-pahadi.png",
-      "description": "1 kg"
+      "alsoKnownAs": "Pahadi Black Lentils",
+      "healthBenefits": "High in protein and dietary fiber, promotes digestion.",
+      "medicalBenefits": "Good for skin health, helps in managing cholesterol, and boosts immunity.",
+      "price": 130,
+      "discountedPrice": 110,
+      "onSale": true
     },
     {
-      "id": "3",
       "category": "Pulses",
       "name": "Kala Chana",
-      "price": 100.00,
-      "discountedPrice": 90.00,
-      "onSale": false,
-      "image": "images/thumb-kala-chana.png",
-      "description": "1 kg"
+      "alsoKnownAs": "Black Chickpeas",
+      "healthBenefits": "Rich in protein and iron, supports weight loss.",
+      "medicalBenefits": "Boosts immunity, good for controlling blood sugar levels, and improves gut health.",
+      "price": 100,
+      "discountedPrice": 90,
+      "onSale": false
+    },
+    {
+      "category": "Pulses",
+      "name": "Pahadi Rajma",
+      "alsoKnownAs": "Hill Kidney Beans",
+      "healthBenefits": "High in protein and fiber, supports digestion.",
+      "medicalBenefits": "Reduces cholesterol, supports heart health, and helps in weight management.",
+      "price": 150,
+      "discountedPrice": 120,
+      "onSale": true
+    },
+    {
+      "category": "Pulses",
+      "name": "Urad Dal",
+      "alsoKnownAs": "Split Black Gram",
+      "healthBenefits": "Improves bone density, enhances skin texture.",
+      "medicalBenefits": "Supports liver function and aids in digestion.",
+      "price": 140,
+      "discountedPrice": 130,
+      "onSale": false
+    },
+    {
+      "category": "Vegetables",
+      "name": "Cauliflower",
+      "alsoKnownAs": "Gobhi",
+      "healthBenefits": "Rich in vitamins C and K, promotes bone health.",
+      "medicalBenefits": "Contains antioxidants that reduce inflammation, supports heart health.",
+      "price": 50,
+      "discountedPrice": 45,
+      "onSale": true
+    },
+    {
+      "category": "Vegetables",
+      "name": "Pahadi Onions",
+      "alsoKnownAs": "Hill Onions",
+      "healthBenefits": "Boosts immunity, enhances metabolism.",
+      "medicalBenefits": "Improves blood circulation, beneficial for heart health.",
+      "price": 60,
+      "discountedPrice": 55,
+      "onSale": false
+    },
+    {
+      "category": "Vegetables",
+      "name": "Pahadi Potatoes",
+      "alsoKnownAs": "Hill Potatoes",
+      "healthBenefits": "Rich in carbohydrates and potassium, provides energy.",
+      "medicalBenefits": "Supports nerve function, good for muscle health.",
+      "price": 40,
+      "discountedPrice": 35,
+      "onSale": true
+    },
+    {
+      "category": "Fruits",
+      "name": "Amla",
+      "alsoKnownAs": "Indian Gooseberry",
+      "healthBenefits": "High in vitamin C, boosts immunity.",
+      "medicalBenefits": "Good for digestion, improves skin and hair health, supports liver function.",
+      "price": 120,
+      "discountedPrice": 100,
+      "onSale": true
+    },
+    {
+      "category": "Fruits",
+      "name": "Malta Oranges",
+      "alsoKnownAs": "Sweet Oranges",
+      "healthBenefits": "High in antioxidants and vitamin C, boosts immunity.",
+      "medicalBenefits": "Good for skin health, helps in managing blood pressure.",
+      "price": 90,
+      "discountedPrice": 80,
+      "onSale": false
     }
   ]
 }
