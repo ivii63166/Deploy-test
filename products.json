@@ -8,7 +8,8 @@
       "medicalBenefits": "Good for heart health, helps in managing diabetes, and supports bone strength.",
       "price": 120,
       "discountedPrice": 100,
-      "onSale": true
+      "onSale": true,
+      "image": "images\\products\\Bhat_ki_Dal.png"
     },
     {
       "category": "Pulses",
@@ -18,7 +19,8 @@
       "medicalBenefits": "Good for skin health, helps in managing cholesterol, and boosts immunity.",
       "price": 130,
       "discountedPrice": 110,
-      "onSale": true
+      "onSale": true,
+      "image": "images\\products\\Urad_Pahadi.png"
     },
     {
       "category": "Pulses",
@@ -28,7 +30,8 @@
       "medicalBenefits": "Boosts immunity, good for controlling blood sugar levels, and improves gut health.",
       "price": 100,
       "discountedPrice": 90,
-      "onSale": false
+      "onSale": false,
+      "image": "images\\products\\Kala_Chana.png"
     },
     {
       "category": "Pulses",
@@ -38,17 +41,8 @@
       "medicalBenefits": "Reduces cholesterol, supports heart health, and helps in weight management.",
       "price": 150,
       "discountedPrice": 120,
-      "onSale": true
-    },
-    {
-      "category": "Pulses",
-      "name": "Urad Dal",
-      "alsoKnownAs": "Split Black Gram",
-      "healthBenefits": "Improves bone density, enhances skin texture.",
-      "medicalBenefits": "Supports liver function and aids in digestion.",
-      "price": 140,
-      "discountedPrice": 130,
-      "onSale": false
+      "onSale": true,
+      "image": "images\\products\\Pahadi_Rajma.png"
     },
     {
       "category": "Vegetables",
@@ -58,7 +52,8 @@
       "medicalBenefits": "Contains antioxidants that reduce inflammation, supports heart health.",
       "price": 50,
       "discountedPrice": 45,
-      "onSale": true
+      "onSale": true,
+      "image": "images\\products\\Cauliflower.png"
     },
     {
       "category": "Vegetables",
@@ -68,7 +63,8 @@
       "medicalBenefits": "Improves blood circulation, beneficial for heart health.",
       "price": 60,
       "discountedPrice": 55,
-      "onSale": false
+      "onSale": false,
+      "image": "images\\products\\Pahadi_Onions.png"
     },
     {
       "category": "Vegetables",
@@ -78,7 +74,19 @@
       "medicalBenefits": "Supports nerve function, good for muscle health.",
       "price": 40,
       "discountedPrice": 35,
-      "onSale": true
+      "onSale": true,
+      "image": "images\\products\\Pahadi_Potatoes.png"
+    },
+    {
+      "category": "Vegetables",
+      "name": "Orange Carrots",
+      "alsoKnownAs": "Gajar",
+      "healthBenefits": "High in beta-carotene, improves vision.",
+      "medicalBenefits": "Good for skin health, boosts the immune system.",
+      "price": 30,
+      "discountedPrice": 25,
+      "onSale": true,
+      "image": "images\\products\\Orange_Carrots.png"
     },
     {
       "category": "Fruits",
@@ -88,7 +96,8 @@
       "medicalBenefits": "Good for digestion, improves skin and hair health, supports liver function.",
       "price": 120,
       "discountedPrice": 100,
-      "onSale": true
+      "onSale": true,
+      "image": "images\\products\\Amla.png"
     },
     {
       "category": "Fruits",
@@ -98,7 +107,19 @@
       "medicalBenefits": "Good for skin health, helps in managing blood pressure.",
       "price": 90,
       "discountedPrice": 80,
-      "onSale": false
+      "onSale": false,
+      "image": "images\\products\\Malta_Oranges.png"
+    },
+    {
+      "category": "Hill Specialties",
+      "name": "Dal",
+      "alsoKnownAs": "Mixed Lentils (Specific Hill Variety)",
+      "healthBenefits": "High in protein, improves metabolism.",
+      "medicalBenefits": "Supports digestion and provides essential nutrients.",
+      "price": 140,
+      "discountedPrice": 130,
+      "onSale": false,
+      "image": "images\\products\\Masoor_Dal.png"
     }
   ]
 }
